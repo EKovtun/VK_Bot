@@ -8,7 +8,7 @@ import java.net.*;
 
 public class Server {
 
-    public static final String token = "7c38b16b89583148101c2656acbb2b9497b89b7c5a5e33b846fac357e168515230b2f179fa74421e0d4d3";
+    public static final String token = "****";
     public static final String versionAPI = "5.73";
 
     public static String server;
