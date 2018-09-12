@@ -10,7 +10,7 @@ import java.net.URL;
 
 public class Moodle  {
 
-    public static final String token = "7594808e95ebbb50b530d78cdc55a9dd";
+    public static final String token = "*****";
 
     // Возврат -1 -> пользователь не найден ; -2 -> field поля не существует
     public static String user_info(String login, String field) throws Exception{
